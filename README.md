@@ -7,7 +7,7 @@ Aplikasi mobile sederhana berbasis daftar item (*scrollable list*) yang menampil
 ## 📱 Tangkapan Layar (Screenshot)
 
 <p align="center">
-  <img src="WhatsApp Image 2026-10-20 at 17.15.33.jpeg" alt="Tampilan Aplikasi List Item" width="300"/>
+  <img src="images/ImageRecyclerViewSample.jpeg" alt="Tampilan Aplikasi" width="280" />
 </p>
 
 ---
